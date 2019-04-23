@@ -1,6 +1,6 @@
 {
   "name": "shadow-repeat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Repeat slotted elements in shadow DOM",
   "main": "shadow-repeat.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/t2ym/shadow-repeat.git"
+    "url": "git+https://github.com/t2ym/shadow-repeat.git"
   },
   "keywords": [
     "lit-html",
