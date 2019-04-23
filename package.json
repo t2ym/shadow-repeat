@@ -1,0 +1,27 @@
+{
+  "name": "shadow-repeat",
+  "version": "0.1.0",
+  "description": "Repeat slotted elements in shadow DOM",
+  "main": "shadow-repeat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/t2ym/shadow-repeat.git"
+  },
+  "keywords": [
+    "lit-html",
+    "shadowdom",
+    "repeat"
+  ],
+  "author": "Tetsuya Mori <t2y3141592@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/t2ym/shadow-repeat/issues"
+  },
+  "homepage": "https://github.com/t2ym/shadow-repeat#readme",
+  "dependencies": {
+    "lit-html": "^1.0.0"
+  }
+}
