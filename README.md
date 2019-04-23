@@ -1,5 +1,5 @@
 [![npm](https://img.shields.io/npm/v/shadow-repeat.svg)](https://www.npmjs.com/package/shadow-repeat)
-[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/t2ym/shadow-repeat)
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/shadow-repeat)
 
 # `<shadow-repeat>`
 
